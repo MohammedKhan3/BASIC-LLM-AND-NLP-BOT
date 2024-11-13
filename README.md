@@ -1,4 +1,4 @@
-# AlgoBot
+# AlgoBot - CODE -> MASTER BRANCH
 AlgoBot is a Discord bot designed to provide structured, step-by-step explanations of various algorithms in JSON format. Built using Python, OpenAI’s API, and spaCy for NLP, AlgoBot interprets algorithm-related questions and delivers detailed, easy-to-understand responses directly on Discord.
 
 ### Features
